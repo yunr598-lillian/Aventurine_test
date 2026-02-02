@@ -1,0 +1,5 @@
+Game_name:砂金乙（真的做版）;
+Game_key:90d0d559da573b8;
+Title_img:封面（暂时）.png;
+Title_bgm:砂金pv.mp3;
+Textbox_theme:imss;
